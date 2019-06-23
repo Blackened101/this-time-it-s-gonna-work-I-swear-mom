@@ -36,7 +36,7 @@ AREA .  .ABS.
 		s__GSFINAL	2361
 		l__CODE_3	275C
 		l__CODE_4	2AE8
-		l__CODE_6	3FE7
+		l__CODE_6	3FF0
 		s__CODE_1	4000
 		s__CODE_3	4000
 		s__CODE_4	4000
@@ -273,7 +273,7 @@ AREA _DATA
 	ATTRIB REL CON
 	GLOBALS
 		_current_index	C0A0
-		_music_f81deda10_Data	C0A1
+		_music_5b395b660_Data	C0A1
 		_joy	C0AB
 		_prev_joy	C0AC
 		_time	C0AD
@@ -439,10 +439,10 @@ AREA _CODE_9
 	SIZE 04DA
 	ATTRIB REL CON
 	GLOBALS
-		_music_f81deda100	4000
-		_music_f81deda101	4118
-		_music_f81deda102	4262
-		_music_f81deda103	43AB
+		_music_5b395b6600	4000
+		_music_5b395b6601	4118
+		_music_5b395b6602	4262
+		_music_5b395b6603	43AB
 AREA _CODE_4
 	RADIX HEX
 	BASE 4000
@@ -609,7 +609,7 @@ AREA _CODE_7
 AREA _CODE_6
 	RADIX HEX
 	BASE 4000
-	SIZE 3FE7
+	SIZE 3FF0
 	ATTRIB REL CON
 	GLOBALS
 		_bank_6_data	4000
@@ -629,41 +629,41 @@ MODULES
 	FILE /var/folders/p8/nrj89n1d451cwbxdsd24mpym0000gn/T//_gbs/gbdk/lib/small/asxxxx/gb/crt0.o
 		NAME Runtime
 	FILE obj/BankData.o
-		NAME lcc38040
+		NAME lcc44580
 	FILE obj/MusicManager.o
-		NAME lcc38080
-	FILE obj/music/music_f81deda10.o
-		NAME lcc38120
+		NAME lcc44620
+	FILE obj/music/music_5b395b660.o
+		NAME lcc44660
 	FILE obj/game.o
-		NAME lcc38160
+		NAME lcc44700
 	FILE obj/Math.o
-		NAME lcc38200
+		NAME lcc44740
 	FILE obj/ScriptRunner_b.o
-		NAME lcc38240
+		NAME lcc44780
 	FILE obj/Stack.o
-		NAME lcc38280
+		NAME lcc44820
 	FILE obj/FadeManager.o
-		NAME lcc38320
+		NAME lcc44860
 	FILE obj/Scene.o
-		NAME lcc38360
+		NAME lcc44900
 	FILE obj/BankManager.o
-		NAME lcc38400
+		NAME lcc44940
 	FILE obj/UI_b.o
-		NAME lcc38440
+		NAME lcc44980
 	FILE obj/Scene_b.o
-		NAME lcc38480
+		NAME lcc45020
 	FILE obj/UI.o
-		NAME lcc38520
+		NAME lcc45060
 	FILE obj/ScriptRunner.o
-		NAME lcc38560
+		NAME lcc45100
 	FILE obj/data/data_ptrs.o
-		NAME lcc38600
+		NAME lcc45140
 	FILE obj/data/bank_7.o
-		NAME lcc38640
+		NAME lcc45180
 	FILE obj/data/bank_6.o
-		NAME lcc38680
+		NAME lcc45220
 	FILE obj/SpriteHelpers.o
-		NAME lcc38720
+		NAME lcc45260
 	FILE obj/gbt_player.o
 	FILE obj/gbt_player_bank1.o
 LIBRARIES

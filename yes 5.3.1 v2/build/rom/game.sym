@@ -204,7 +204,7 @@
 ; Area: _GSFINAL
 ; Area: _DATA
 00:C0A0 _current_index
-00:C0A1 _music_f81deda10_Data
+00:C0A1 _music_5b395b660_Data
 00:C0AB _joy
 00:C0AC _prev_joy
 00:C0AD _time
@@ -339,10 +339,10 @@
 ; Area: _BSEG
 ; Area: _XSEG
 ; Area: _CODE_9
-01:4000 _music_f81deda100
-01:4118 _music_f81deda101
-01:4262 _music_f81deda102
-01:43AB _music_f81deda103
+01:4000 _music_5b395b6600
+01:4118 _music_5b395b6601
+01:4262 _music_5b395b6602
+01:43AB _music_5b395b6603
 ; Area: _CODE_4
 01:4000 _Script_Noop_b
 01:4011 _Script_End_b
