@@ -5,7 +5,7 @@
         "startX": 7,
         "startY": 12,
         "startDirection": "down",
-        "zoom": 75,
+        "zoom": 103.4665262401104,
         "startSceneId": "ed919c43-ab2b-4032-968c-204ae34143c2",
         "playerSpriteSheetId": "75018d04-aa76-4a55-aba8-593fe2b7698f"
     },
@@ -22,7 +22,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "ata kvar met.png",
-            "_v": 1561285676222
+            "_v": 1561286393883
         },
         {
             "id": "dff187fa-9c21-451e-acc7-4787d095458c",
@@ -32,7 +32,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1561285676222
+            "_v": 1561286393883
         },
         {
             "id": "bf035550-8c11-4e14-bd11-c0cd84642150",
@@ -42,7 +42,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "etika.png",
-            "_v": 1561285676222
+            "_v": 1561286393883
         },
         {
             "id": "5441ef4a-3337-4123-bf02-dc55196cb001",
@@ -52,7 +52,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "lose.png",
-            "_v": 1561285676222
+            "_v": 1561286393883
         },
         {
             "id": "939a00c2-7855-4994-bc1b-ad4e8d14bfd8",
@@ -62,7 +62,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "5f23181b-33f7-4c67-a063-3b1e50eba163",
@@ -72,7 +72,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
@@ -82,7 +82,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "placeholder.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "ea0c19fe-c73a-47f9-aef6-7e318074735a",
@@ -92,7 +92,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "placeholder2.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "50565df3-e56e-463f-b874-f17bfe59dcf4",
@@ -102,7 +102,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "presents.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "e7bba6f1-1c72-4beb-992e-869e237e3a71",
@@ -112,7 +112,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "something.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "098c385f-54a8-4ece-b648-905088a9e6a4",
@@ -122,7 +122,7 @@
             "imageWidth": 640,
             "imageHeight": 576,
             "filename": "still trying.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "4d5ad9d3-831e-4322-b55c-b6093ac58920",
@@ -132,7 +132,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "title.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "fcf5e394-72e5-4f7f-924d-7895f0bdf2f4",
@@ -142,7 +142,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TTS .png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "1cb3485f-fd70-4a0c-b5ea-eb4ab6a3646d",
@@ -152,7 +152,7 @@
             "imageWidth": 320,
             "imageHeight": 288,
             "filename": "untitled.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         },
         {
             "id": "e1093eff-91a8-4d1c-b0e7-42f44c988116",
@@ -162,7 +162,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "win.png",
-            "_v": 1561285676222
+            "_v": 1561286393884
         }
     ],
     "spriteSheets": [
@@ -172,7 +172,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "actor_animated.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "11b5452b-187c-43a3-afb1-a1f4f74ffda2",
@@ -180,7 +180,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "actor.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "ded7c8bf-09d7-4118-b415-5de6fffb65a4",
@@ -188,7 +188,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "full.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "a366f378-f132-4512-8139-e2215be806aa",
@@ -196,7 +196,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "half.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "de39e9a8-eab3-4792-89d6-750eed13587e",
@@ -204,7 +204,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "hurt.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "75018d04-aa76-4a55-aba8-593fe2b7698f",
@@ -212,7 +212,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1561285676225
+            "_v": 1561286393886
         },
         {
             "id": "daf95270-e30d-423b-9ee7-990ae29f57f6",
@@ -220,7 +220,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "static.png",
-            "_v": 1561285676225
+            "_v": 1561286393887
         },
         {
             "id": "8bc65e38-3e6e-484d-bf0a-3b8bf7bef7b1",
@@ -228,7 +228,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sword.png",
-            "_v": 1561285676225
+            "_v": 1561286393887
         }
     ],
     "scenes": [
@@ -529,7 +529,7 @@
                                             "and",
                                             "Forrest L. from\nSeaDark.",
                                             "More Developers\nwill join on\nFuture Builds",
-                                            "and this is Alpha\nBuild 5.3",
+                                            "and this is Alpha\nBuild 5.3.1",
                                             "We hope you enjoy\nthis demo."
                                         ],
                                         "__collapse": false
@@ -2681,7 +2681,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1561285676227
+            "_v": 1561286393888
         }
     ],
     "notes": "Changed tons of stuff."
