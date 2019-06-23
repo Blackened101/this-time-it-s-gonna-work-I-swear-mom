@@ -5,4 +5,4 @@
 +- New NPC
 
 
-F: Plz look at scene 8 and
+F: Plz look at scene 8
